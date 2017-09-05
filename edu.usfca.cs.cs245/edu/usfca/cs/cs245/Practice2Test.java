@@ -1,6 +1,5 @@
 package edu.usfca.cs.cs245;
 
-
 import java.util.Random;
 
 
@@ -67,6 +66,7 @@ public class Practice2Test {
 			else
 				arr[i] = candidate;
 		}
+
 		return true;
 	}
 	
